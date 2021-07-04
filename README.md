@@ -1,4 +1,4 @@
 # hello-world
 Hello.
-Its qwardel and I trying to do some stuff with javascript.  
-    Maybe there is gonna some programms on js or python.
+My name is Misha, and I gonna publish some stuff here.
+4 July 2021 : I learning java, going to publish first garbage work XD.
